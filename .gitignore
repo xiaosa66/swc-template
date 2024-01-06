@@ -1,0 +1,6 @@
+dist
+build
+.tmp
+.DS_STORE
+.swc
+coverage
